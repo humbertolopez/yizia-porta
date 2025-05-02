@@ -1,4 +1,3 @@
-import Image from "next/image";
 import HeroArea from "@/components/home/HeroArea/HeroArea";
 import DesignSystemsThatWork from "@/components/home/DesignSystemsThatWork/DesignSystemsThatWork";
 import Packaging from "@/components/home/Packaging/Packaging";
