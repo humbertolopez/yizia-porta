@@ -27,13 +27,14 @@ export default function Card({
   tags,
 }: CardProps) {
   return (
-    <div className="w-1/3 relative">
+    <div className="relative">
       <Image
         src={imageSrc}
         alt={imageAlt}
         width={imageWidth}
         height={imageHeight}
         className="w-full h-auto"
+        quality={100}
       />
       <div className="p-10">
         {tagline && (
