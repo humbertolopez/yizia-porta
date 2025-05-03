@@ -9,7 +9,7 @@ export default function DesignSystemsThatWork() {
         tagline="Design"
         description="From physical packaging to digital journeys, I create design solutions that balance function, beauty, and purpose."
       />
-      <div className="container mx-auto w-full flex gap-10">
+      <div className="container mx-auto w-full gap-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
         <Card
           title="Boxes, Blisters & Bold Statements"
           description="Packaging is more than wrapping — it’s storytelling in 3D. I bring
