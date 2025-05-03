@@ -1,18 +1,14 @@
 import Card from "@/components/general/Card/Card";
+import TitleArea from "../TitleArea/TitleArea";
 
 export default function DesignSystemsThatWork() {
   return (
     <section>
-      <div className="container mx-auto py-28 w-3/4">
-        <p className="text-center font-signika text-lg/tight">Design</p>
-        <h2 className="text-center font-poppins text-5xl/tight">
-          Design Systems That Work — and Make People Feel
-        </h2>
-        <p className="text-center font-signika text-lg/tight">
-          From physical packaging to digital journeys, I create design solutions
-          that balance function, beauty, and purpose.
-        </p>
-      </div>
+      <TitleArea
+        title="Design Systems That Work — and Make People Feel"
+        tagline="Design"
+        description="From physical packaging to digital journeys, I create design solutions that balance function, beauty, and purpose."
+      />
       <div className="container mx-auto w-full flex gap-10">
         <Card
           title="Boxes, Blisters & Bold Statements"

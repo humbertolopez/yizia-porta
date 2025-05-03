@@ -1,16 +1,13 @@
 import Card from "@/components/general/Card/Card";
+import TitleArea from "../TitleArea/TitleArea";
 
 export default function Packaging() {
   return (
     <section>
-      <div className="container mx-auto py-28 w-3/4">
-        <h2 className="text-center font-poppins text-5xl/tight">
-          Packaging Project Showcase
-        </h2>
-        <p className="text-center font-signika text-lg/tight">
-          Explore innovative packaging designs that tell a story.
-        </p>
-      </div>
+      <TitleArea
+        title="Packaging Project Showcase"
+        description="Explore innovative packaging designs that tell a story."
+      />
       <div className="container mx-auto w-full flex gap-10">
         <Card
           title="AccuTec Pro: Cookie Jar"
