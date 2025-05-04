@@ -10,7 +10,7 @@ export default function TitleArea({
   description,
 }: TitleAreaProps) {
   return (
-    <div className="container mx-auto py-28 w-3/4">
+    <div className="container mx-auto py-28 px-5 md:px-0 w-full md:w-3/4">
       {tagline && (
         <p className="text-center font-signika text-lg/tight mb-4">{tagline}</p>
       )}

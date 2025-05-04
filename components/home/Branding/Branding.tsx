@@ -1,9 +1,8 @@
-import Card from "@/components/general/Card/Card";
-import TitleArea from "../TitleArea/TitleArea";
-import data from "@/data/packaging_projects.json";
 import CardsBlock from "../CardsBlock/CardsBlock";
+import data from "@/data/branding.json";
+import TitleArea from "../TitleArea/TitleArea";
 
-export default function Packaging() {
+export default function Branding() {
   return (
     <section>
       <TitleArea

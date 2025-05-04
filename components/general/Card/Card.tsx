@@ -27,7 +27,7 @@ export default function Card({
   tags,
 }: CardProps) {
   return (
-    <div className="relative">
+    <div className="relative break-inside-avoid">
       <Image
         src={imageSrc}
         alt={imageAlt}
