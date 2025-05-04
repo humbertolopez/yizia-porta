@@ -1,4 +1,3 @@
-import Card from "@/components/general/Card/Card";
 import TitleArea from "../TitleArea/TitleArea";
 import data from "@/data/packaging_projects.json";
 import CardsBlock from "../CardsBlock/CardsBlock";
