@@ -6,7 +6,7 @@ export default function Packaging() {
   return (
     <section>
       <TitleArea
-        title="Branding Project Showcase"
+        title="Packaging Project Showcase"
         description="Explore innovative branding designs that tell a story."
       />
       <CardsBlock projects={data} />
