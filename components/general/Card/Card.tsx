@@ -54,12 +54,14 @@ export default function Card({
             ))}
           </div>
         )}
-        <Link
-          href={linkUrl}
-          className="font-signika font-medium after:content-['>'] after:ml-4"
-        >
-          {linkLabel}
-        </Link>
+        {linkUrl && (
+          <Link
+            href={linkUrl}
+            className="font-signika font-medium after:content-['>'] after:ml-4"
+          >
+            {linkLabel}
+          </Link>
+        )}
       </div>
     </div>
   );

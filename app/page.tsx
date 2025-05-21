@@ -5,6 +5,7 @@ import UxUi from "@/components/home/UxUi/UxUi";
 import Branding from "@/components/home/Branding/Branding";
 import Menu from "@/components/general/Menu/Menu";
 import Stats from "@/components/home/Stats/Stats";
+import About from "@/components/home/About/About";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <Packaging />
       <UxUi />
       <Branding />
+      <About />
     </>
   );
 }

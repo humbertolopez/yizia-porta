@@ -2,13 +2,9 @@
   {
     "title": "Casa Leña: Amazon Storefront",
     "description": "Designed a compliant storefront aligned and approved with Amazon's brand and layout requirements — streamlining approval and extending the brand experience from packaging to platform.",
-    "tags": [
-      "e-Commerce",
-      "Brand Identity",
-      "Packaging Design"
-    ],
+    "tags": ["e-Commerce", "Brand Identity", "Packaging Design"],
     "linkLabel": "View project",
-    "linkUrl": "#",
+    "linkUrl": "",
     "imageSrc": "/img/uxui/casalena.png",
     "imageAlt": "Casa Leña: Amazon Storefront",
     "imageWidth": 416,
@@ -17,11 +13,9 @@
   {
     "title": "Kokoro: BARF Diet Calculator & Site",
     "description": "Built a conversion-focused digital flow that turned pet diet calculations into WhatsApp orders — increasing direct engagement and minimizing customer onboarding time.",
-    "tags": [
-      "UX/UI"
-    ],
+    "tags": ["UX/UI"],
     "linkLabel": "View project",
-    "linkUrl": "#",
+    "linkUrl": "",
     "imageSrc": "/img/uxui/kokoro.png",
     "imageAlt": "Kokoro: BARF Diet Calculator & Site",
     "imageWidth": 416,
@@ -30,11 +24,9 @@
   {
     "title": "Energy (CFE): Internal IoT Monitoring Tool",
     "description": "Redesigned a utility dashboard for energy technicians — improving data interpretation speed and reducing time-to-decision in the field.",
-    "tags": [
-      "UX/UI"
-    ],
+    "tags": ["UX/UI"],
     "linkLabel": "View project",
-    "linkUrl": "#",
+    "linkUrl": "",
     "imageSrc": "/img/uxui/cfeiot.png",
     "imageAlt": "Energy (CFE): Internal IoT Monitoring Tool",
     "imageWidth": 416,
@@ -43,11 +35,9 @@
   {
     "title": "Energy: Smart Monitoring for CFE",
     "description": "UX/UI design for an internal webapp that visualizes energy consumption data from SPORE-enabled meters — streamlining operations at a national level.",
-    "tags": [
-      "UX/UI"
-    ],
+    "tags": ["UX/UI"],
     "linkLabel": "View project",
-    "linkUrl": "#",
+    "linkUrl": "",
     "imageSrc": "/img/uxui/cfesmart.png",
     "imageAlt": "Energy: Smart Monitoring for CFE",
     "imageWidth": 416,
@@ -56,11 +46,9 @@
   {
     "title": "Compárale: Mortgage Credit App",
     "description": "Designed UX/UI for a digital mortgage tool used for 5+ years — improving clarity for applicants and streamlining form completion across devices.",
-    "tags": [
-      "UX/UI"
-    ],
+    "tags": ["UX/UI"],
     "linkLabel": "View project",
-    "linkUrl": "#",
+    "linkUrl": "",
     "imageSrc": "/img/uxui/comparale.png",
     "imageAlt": "Compárale: Mortgage Credit App",
     "imageWidth": 416,
@@ -69,11 +57,9 @@
   {
     "title": "Getabed: Hotel Booking Engine",
     "description": "Designed and implemented the UI and flow of a hotel booking system still in use today — reducing friction in reservations through intuitive dashboard layout.",
-    "tags": [
-      "UX/UI"
-    ],
+    "tags": ["UX/UI"],
     "linkLabel": "View project",
-    "linkUrl": "#",
+    "linkUrl": "",
     "imageSrc": "/img/uxui/getabed.png",
     "imageAlt": "Getabed: Hotel Booking Engine",
     "imageWidth": 416,
@@ -82,11 +68,9 @@
   {
     "title": "Giloco — Shopify eCommerce Site",
     "description": "Developed a ready-to-launch online store using Shopify — extending the brand into digital with a lightweight structure that minimized setup and maintenance time.",
-    "tags": [
-      "e-Commerce"
-    ],
+    "tags": ["e-Commerce"],
     "linkLabel": "View project",
-    "linkUrl": "#",
+    "linkUrl": "",
     "imageSrc": "/img/uxui/giloco.png",
     "imageAlt": "Giloco — Shopify eCommerce Site",
     "imageWidth": 416,
